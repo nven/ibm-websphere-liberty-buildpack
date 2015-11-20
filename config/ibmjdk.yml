@@ -15,7 +15,7 @@
 
 # Configuration for JRE repository
 ---
-repository_root: "https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/jre"
-version: 1.8.+
+repository_root: "https://31245c30dfef96694707a7ff22b71560503dd14a.googledrive.com/host/0B1uoan3AapxFcGVyY09IbEh4Nnc"
+version: 1.7.+
 
 heap_size_ratio: 0.75
